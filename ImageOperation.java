@@ -1,5 +1,5 @@
 
-    import javax.swing.JButton;
+ import javax.swing.JButton;
 import javax.swing.JFileChooser;
 import javax.swing.JFrame;
 import javax.swing.JOptionPane;
@@ -51,7 +51,7 @@ public class ImageOperation {
 
         JFrame f=new JFrame();
         f.setTitle("Image Operation");
-        f.setSize(400,400);
+        f.setSize(200,200);
         f.setLocationRelativeTo(null);
         f.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 
